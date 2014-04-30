@@ -1,4 +1,6 @@
 Sort
 ====
 
-MergeSort, QuickSort, BubbleSort, SelectSort
+MergeSort
+QuickSort (three different version for partition)
+HeapSort
