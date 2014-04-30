@@ -1,10 +1,7 @@
-#include <iostream>
-
-using namespace std;
 
 void PrintArr(int *arr)
 {
-	for(int i=0; i <= 9; i++)
+	for(int i=0; i <= Max; i++)
 		cout<<arr[i]<<'\t';
 	cout<<endl;
 }
